@@ -1,2 +1,3 @@
 # full-stack-form-php-mysql-as-backend
-This is my first full stack website were I connected php with mysql and tried to take data from front end.
+
+Full-stack website using PHP, MySQL and vanilla JavaScript. This application is mainly built using the Xampp server to manage the backend.
